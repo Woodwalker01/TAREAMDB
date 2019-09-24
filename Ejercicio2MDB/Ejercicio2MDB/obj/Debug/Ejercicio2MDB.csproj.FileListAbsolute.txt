@@ -1,0 +1,10 @@
+C:\Users\WoodWalker01\source\repos\Ejercicio2MDB\Ejercicio2MDB\bin\Debug\Ejercicio2MDB.exe.config
+C:\Users\WoodWalker01\source\repos\Ejercicio2MDB\Ejercicio2MDB\bin\Debug\Ejercicio2MDB.exe
+C:\Users\WoodWalker01\source\repos\Ejercicio2MDB\Ejercicio2MDB\bin\Debug\Ejercicio2MDB.pdb
+C:\Users\WoodWalker01\source\repos\Ejercicio2MDB\Ejercicio2MDB\obj\Debug\Ejercicio2MDB.csprojAssemblyReference.cache
+C:\Users\WoodWalker01\source\repos\Ejercicio2MDB\Ejercicio2MDB\obj\Debug\Ejercicio2MDB.Form1.resources
+C:\Users\WoodWalker01\source\repos\Ejercicio2MDB\Ejercicio2MDB\obj\Debug\Ejercicio2MDB.Properties.Resources.resources
+C:\Users\WoodWalker01\source\repos\Ejercicio2MDB\Ejercicio2MDB\obj\Debug\Ejercicio2MDB.csproj.GenerateResource.cache
+C:\Users\WoodWalker01\source\repos\Ejercicio2MDB\Ejercicio2MDB\obj\Debug\Ejercicio2MDB.csproj.CoreCompileInputs.cache
+C:\Users\WoodWalker01\source\repos\Ejercicio2MDB\Ejercicio2MDB\obj\Debug\Ejercicio2MDB.exe
+C:\Users\WoodWalker01\source\repos\Ejercicio2MDB\Ejercicio2MDB\obj\Debug\Ejercicio2MDB.pdb
